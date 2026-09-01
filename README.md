@@ -7,8 +7,8 @@
 
 <!-- Profile views + socials -->
 ![Profile Views](https://komarev.com/ghpvc/?username=yashkesarwani28&color=2EC4B6&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-kesarwani-14043b24b/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yashkesarwani28@gmail.com)
 
 </div>
 
@@ -65,17 +65,17 @@
 
 <div align="center">
 
-<a href="https://github.com/yashkesarwani28/REPO-NAME-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashkesarwani28&repo=REPO-NAME-1&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/yashkesarwani28/superstore-powerbi-dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashkesarwani28&repo=superstore-powerbi-dashboard&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/yashkesarwani28/REPO-NAME-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashkesarwani28&repo=REPO-NAME-2&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/yashkesarwani28/Forage-Virtual-Job-Simulation-Tata-Consultancy-Services-April-2025-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashkesarwani28&repo=Forage-Virtual-Job-Simulation-Tata-Consultancy-Services-April-2025-&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/yashkesarwani28/REPO-NAME-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashkesarwani28&repo=REPO-NAME-3&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/yashkesarwani28/Work-to-do">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashkesarwani28&repo=Work-to-do&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/yashkesarwani28/REPO-NAME-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashkesarwani28&repo=REPO-NAME-4&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/yashkesarwani28/Animated-Photo-Gallery">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashkesarwani28&repo=Animated-Photo-Gallery&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -86,9 +86,11 @@
 
 ### 📈 Let's Connect & Collaborate!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-kesarwani-14043b24b/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yashkesarwani28@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2EC4B6&height=100&section=footer" width="100%"/>
+
+</div>
 
 </div>
