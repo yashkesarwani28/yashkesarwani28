@@ -61,11 +61,9 @@
 
 ### 📌 Pinned Projects
 
-> Replace the links/descriptions below with your real repo names — GitHub will auto-pull the stars/forks once the repo names match.
-
 <div align="center">
 
-<a href="https://github.com/yashkesarwani28/superstore-powerbi-dashboard">
+<a href="https://github.com/yashkesarwani28/marketing_ecommerce_power-BI_dashboard">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashkesarwani28&repo=superstore-powerbi-dashboard&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/yashkesarwani28/Forage-Virtual-Job-Simulation-Tata-Consultancy-Services-April-2025-">
